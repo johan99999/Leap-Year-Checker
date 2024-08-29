@@ -1,3 +1,5 @@
+![leap icon](https://github.com/user-attachments/assets/ac9b12f2-982e-4996-9854-99ae185910e9)
+
 # Leap-Year-Checker
 a desktop application to check whether a year is a leap year or not
 
@@ -13,6 +15,12 @@ How to Use?
 * it will prompt warning message if the input empty or length of the input greater than 4.
   ![image](https://github.com/user-attachments/assets/06ad9d8a-5c0c-4d92-8151-6a0d20ecc30c)
   ![image](https://github.com/user-attachments/assets/91d20ad9-e9ec-4ce2-b185-8cf6a9b278d7)
+
+
+
+  ![new icon](https://github.com/user-attachments/assets/4c134aeb-b9ad-4dd3-85dd-a3b0730c4b00)
+  Follow for More!
+
 
 
 
