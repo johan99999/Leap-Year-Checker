@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Project\\Leap-Year-Checker\\Leap Year Checker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5DBF48-87E5-4935-A752-14EF4409AE2A}|Leap Year Checker.csproj|c:\\users\\pc\\desktop\\project\\leap-year-checker\\leap year checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E5DBF48-87E5-4935-A752-14EF4409AE2A}|Leap Year Checker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5DBF48-87E5-4935-A752-14EF4409AE2A}|Leap Year Checker.csproj|c:\\users\\pc\\desktop\\project\\leap-year-checker\\leap year checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5DBF48-87E5-4935-A752-14EF4409AE2A}|Leap Year Checker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Leap Year Checker||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5DBF48-87E5-4935-A752-14EF4409AE2A}|Leap Year Checker.csproj|c:\\users\\pc\\desktop\\project\\leap-year-checker\\leap year checker\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Leap Year Checker",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Project\\Leap-Year-Checker\\Leap Year Checker\\Leap Year Checker.csproj",
+              "RelativeDocumentMoniker": "Leap Year Checker.csproj",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Project\\Leap-Year-Checker\\Leap Year Checker\\Leap Year Checker.csproj",
+              "RelativeToolTip": "Leap Year Checker.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-29T07:33:25.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Project\\Leap-Year-Checker\\Leap Year Checker\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Project\\Leap-Year-Checker\\Leap Year Checker\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:50:22.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Project\\Leap-Year-Checker\\Leap Year Checker\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Project\\Leap-Year-Checker\\Leap Year Checker\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:38:07.121Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
